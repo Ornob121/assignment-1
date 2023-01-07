@@ -1,11 +1,11 @@
 * {
     margin: 0%;
-    font-family: 'Work Sans';
+    /* font-family: 'Work Sans'; */
 
 }
 
 .banner {
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(./images/banner/banner2.png);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: right;

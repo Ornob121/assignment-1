@@ -34,7 +34,54 @@
 }
 
 
-.main-list1 li{
+.main-list1 li {
     padding-bottom: 8px;
     padding-right: 67px;
+}
+
+/* Main second part */
+
+
+#ll {
+    font-weight: 700;
+    font-size: 40px;
+    padding: 0 0 50px;
+    text-align: center;
+}
+
+.main-description2 {
+    display: flex;
+    padding: 0 230px 124px;
+    text-align: center;
+
+}
+
+.web {
+    padding: 0px 50px 16px 30px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.web-description1 {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+
+.java {
+    padding: 0 86px;
+    font-weight: 700;
+    font-size: 30px;
+    padding-bottom: 16px;
+}
+.java4{
+    font-weight: 700;
+    font-size: 30px;
+    padding-bottom: 16px;
+    padding-left: 26px; 
+}
+
+.web-description2{
+    font-weight: 500;
+    font-size: 25px;
 }
