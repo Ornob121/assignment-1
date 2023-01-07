@@ -14,7 +14,7 @@
 
 
 .main-div2 {
-    padding: 369px 264px 214px 0px;
+    padding: 369px 200px 214px 0px;
 }
 
 .main-heading1 {
@@ -30,7 +30,7 @@
     font-size: 16px;
     color: #444343;
     padding-bottom: 16px;
-    padding-right: 128px;
+    padding-right: 80px;
 }
 
 
@@ -51,7 +51,7 @@
 
 .main-description2 {
     display: flex;
-    padding: 0 230px 124px;
+    padding: 0 100px 124px;
     text-align: center;
 
 }
