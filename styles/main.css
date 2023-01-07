@@ -1,0 +1,40 @@
+* {
+    font-family: 'Work Sans';
+}
+
+.main-div {
+    display: flex;
+}
+
+.image-1 {
+    padding: 130px 87px 130px 264px;
+    width: 570px;
+    height: 720px;
+}
+
+
+.main-div2 {
+    padding: 369px 264px 214px 0px;
+}
+
+.main-heading1 {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 24px;
+    padding-right: 128px;
+}
+
+.main-description1 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding-bottom: 16px;
+    padding-right: 128px;
+}
+
+
+.main-list1 li{
+    padding-bottom: 8px;
+    padding-right: 67px;
+}
