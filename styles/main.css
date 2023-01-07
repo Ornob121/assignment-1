@@ -74,14 +74,124 @@
     font-size: 30px;
     padding-bottom: 16px;
 }
-.java4{
+
+.java4 {
     font-weight: 700;
     font-size: 30px;
     padding-bottom: 16px;
-    padding-left: 26px; 
+    padding-left: 26px;
 }
 
-.web-description2{
+.web-description2 {
     font-weight: 500;
     font-size: 25px;
+}
+
+
+
+/* main section third part */
+
+.main-div3 {
+    margin: 124px 230px;
+    background-blend-mode: multiply;
+    background-image: linear-gradient(to right, blue, white), url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+
+}
+
+.main-header3 {
+    padding: 59px 617px 24px 64px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+
+
+
+.main3-btn {
+    padding: 0 916px 59px 64px;
+    height: 64px;
+    width: 180px;
+}
+
+.main3btn {
+    padding: 20px 36px;
+    color: blue;
+    font-size: 20px;
+    font-size: 600;
+
+}
+
+
+.main3btn:hover {
+    background-color: green;
+    text-align: center;
+
+}
+
+/* footer section */
+
+.footer-div {
+    display: flex;
+    gap: 331px;
+    background: #151414;
+    width: 1600;
+    height: 577;
+    color: #FFFFFF;
+    padding-top: 130px;
+}
+
+
+
+.footer-div1 {
+    padding-left: 230px;
+    padding-bottom: 130px;
+}
+
+.footer-header {
+    padding-bottom: 16px;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.footer-header2 {
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 31px;
+}
+
+.footer-div2 {
+    position: right;
+    padding-right: 230px;
+}
+
+#email {
+    width: 325px;
+    height: 64px;
+    background-color: #151414;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.footer3-btn {
+    padding-top: 16px;
+
+}
+
+
+.footer3btn {
+    height: 64px;
+    width: 170px;
+    font-weight: 600;
+    font-size: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.footer3btn:hover {
+    background-color: green;
 }
